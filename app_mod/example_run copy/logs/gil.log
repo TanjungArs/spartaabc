@@ -1,0 +1,153 @@
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=127
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf, stat=127
+2021-05-12 19:58:11 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 127.
+2021-05-12 20:04:50 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-12 20:04:50 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-12 20:04:50 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-12 20:04:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-12 20:04:50 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-12 20:04:50 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-12 20:06:49 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=0
+2021-05-12 20:08:35 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf, stat=0
+2021-05-12 20:08:35 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2021-05-12 20:08:37 msa_bias_corrector INFO     Maximal sequence length for model dif: 357
+2021-05-12 20:08:37 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 357
+2021-05-13 13:50:28 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 13:50:28 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 13:50:28 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 13:50:28 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 13:50:28 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 13:50:28 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 13:51:47 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=0
+2021-05-13 13:53:01 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf, stat=0
+2021-05-13 13:53:01 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2021-05-13 13:53:03 msa_bias_corrector INFO     Maximal sequence length for model dif: 595
+2021-05-13 13:53:03 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 595
+2021-05-13 13:54:29 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 13:54:29 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 13:54:29 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 13:54:29 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 13:54:29 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 13:54:29 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 13:54:47 run_sparta_abc_single_folder_pipeline INFO      skipped.
+2021-05-13 13:54:48 msa_bias_corrector INFO     Maximal sequence length for model dif: 595
+2021-05-13 13:54:48 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 595
+2021-05-13 13:54:48 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 0
+2021-05-13 13:55:03 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 13:55:03 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 13:55:03 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 13:55:03 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 13:55:03 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 13:55:03 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 13:56:16 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=0
+2021-05-13 13:57:29 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf, stat=0
+2021-05-13 13:57:29 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2021-05-13 13:57:30 msa_bias_corrector INFO     Maximal sequence length for model dif: 331
+2021-05-13 13:57:30 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 331
+2021-05-13 13:57:30 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 0
+2021-05-13 14:00:02 __main__ INFO     Skipping Sparta.
+2021-05-13 14:00:02 __main__ INFO     retrieved existing params files.
+2021-05-13 14:00:02 __main__ INFO     retrieved existing params files.
+2021-05-13 14:00:03 msa_bias_corrector INFO     Maximal sequence length for model dif: 331
+2021-05-13 14:00:03 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 331
+2021-05-13 14:00:03 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 0
+2021-05-13 14:00:13 __main__ INFO     Skipping Sparta.
+2021-05-13 14:00:13 __main__ INFO     retrieved existing params files.
+2021-05-13 14:00:13 __main__ INFO     retrieved existing params files.
+2021-05-13 14:00:13 msa_bias_corrector INFO     Maximal sequence length for model dif: 331
+2021-05-13 14:00:13 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 331
+2021-05-13 14:02:01 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 14:02:01 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 14:02:01 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 14:02:01 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 14:02:01 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 14:02:01 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 14:03:14 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=0
+2021-05-13 14:04:28 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf, stat=0
+2021-05-13 14:04:28 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2021-05-13 14:04:29 msa_bias_corrector INFO     Maximal sequence length for model dif: 436
+2021-05-13 14:04:29 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 436
+2021-05-13 14:05:13 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 14:05:13 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 14:05:13 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 14:05:13 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 14:05:13 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 14:05:13 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 14:05:21 run_sparta_abc_single_folder_pipeline INFO      skipped.
+2021-05-13 14:05:22 msa_bias_corrector INFO     Maximal sequence length for model dif: 436
+2021-05-13 14:05:22 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 436
+2021-05-13 14:05:26 __main__ INFO     Skipping Sparta.
+2021-05-13 14:05:26 __main__ INFO     retrieved existing params files.
+2021-05-13 14:05:26 __main__ INFO     retrieved existing params files.
+2021-05-13 14:05:27 msa_bias_corrector INFO     Maximal sequence length for model dif: 436
+2021-05-13 14:05:27 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 436
+2021-05-13 14:05:27 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 0
+2021-05-13 15:33:27 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 15:33:27 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 15:33:27 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 15:33:27 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 15:33:27 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 15:33:27 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 15:35:50 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=0
+2021-05-13 15:37:50 run_sparta_abc_single_folder_pipeline INFO      skipped.
+2021-05-13 15:40:10 run_sparta_abc_single_folder_pipeline INFO      started.
+2021-05-13 15:40:10 run_sparta_abc_single_folder_pipeline INFO     Inside create_sims function.
+2021-05-13 15:40:10 run_sparta_abc_single_folder_pipeline INFO     Writing conf files.
+2021-05-13 15:40:10 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 15:40:10 run_sparta_abc_single_folder_pipeline INFO     Wrote /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf. Based on /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/sparta_conf_template.conf
+2021-05-13 15:40:10 run_sparta_abc_single_folder_pipeline INFO     linux op system
+2021-05-13 15:40:30 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_eq.conf, stat=0
+2021-05-13 15:40:50 run_sparta_abc_single_folder_pipeline INFO     ran /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/SpartaABC, conf_path=/Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/_dif.conf, stat=0
+2021-05-13 15:40:50 run_sparta_abc_single_folder_pipeline INFO      simulations are done - finish stats 0.
+2021-05-13 15:40:53 msa_bias_corrector INFO     Maximal sequence length for model dif: 421
+2021-05-13 15:40:53 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 421
+2021-05-13 15:41:33 __main__ INFO     Skipping Sparta.
+2021-05-13 15:41:33 __main__ INFO     retrieved existing params files.
+2021-05-13 15:41:33 __main__ INFO     retrieved existing params files.
+2021-05-13 15:41:35 msa_bias_corrector INFO     Maximal sequence length for model dif: 421
+2021-05-13 15:41:35 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 421
+2021-05-13 15:41:36 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 200
+2021-05-13 15:45:15 msa_bias_corrector INFO     Done with MAFFT
+2021-05-13 15:46:10 msa_bias_corrector INFO     {'AVG_GAP_SIZE': 0.8045275905704959, 'MSA_LEN': 0.9861431182108243, 'MSA_MAX_LEN': 0.9999999860376411, 'MSA_MIN_LEN': 0.9999999999891076, 'TOT_NUM_GAPS': 0.8616009384124965, 'NUM_GAPS_LEN_ONE': 0.6472194619443441, 'NUM_GAPS_LEN_TWO': 0.5149047360673443, 'NUM_GAPS_LEN_THREE': 0.43373055964169366, 'NUM_GAPS_LEN_AT_LEAST_FOUR': 0.8503561647970024, 'AVG_UNIQUE_GAP_SIZE': 0.7713084105427602, 'TOT_NUM_UNIQE_GAPS': 0.9031792023327538, 'NUM_GAPS_LEN_ONE_POS_1_GAPS': 0.5629044131511204, 'NUM_GAPS_LEN_ONE_POS_2_GAPS': 0.5075511886150469, 'NUM_GAPS_LEN_ONE_POS_N_MINUS_1_GAPS': 0.459457776851433, 'NUM_GAPS_LEN_TWO_POS_1_GAPS': 0.36808961490898456, 'NUM_GAPS_LEN_TWO_POS_2_GAPS': 0.4359836251857133, 'NUM_GAPS_LEN_TWO_POS_N_MINUS_1_GAPS': 0.3969831221444831, 'NUM_GAPS_LEN_THREE_POS_1_GAPS': 0.4085233079850694, 'NUM_GAPS_LEN_THREE_POS_2_GAPS': 0.5100326158186294, 'NUM_GAPS_LEN_THREE_POS_N_MINUS_1_GAPS': 0.28423775467857854, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_1_GAPS': 0.8354048126839924, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_2_GAPS': 0.7857676152560997, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_N_MINUS_1_GAPS': 0.5655241338321947, 'MSA_POSITION_WITH_0_GAPS': 0.9463298491944545, 'MSA_POSITION_WITH_1_GAPS': 0.9182135127768718, 'MSA_POSITION_WITH_2_GAPS': 0.8435988746278446, 'MSA_POSITION_WITH_N_MINUS_1_GAPS': 0.8626712793583505}
+2021-05-13 15:46:18 msa_bias_corrector INFO     Corrected MSA bias for model dif
+2021-05-13 15:46:18 msa_bias_corrector INFO     Maximal sequence length for model eq: 438
+2021-05-13 15:46:18 msa_bias_corrector INFO     Number of simulated MSAs  for model eq: 438
+2021-05-13 15:46:20 msa_bias_corrector INFO     Number of indelible MSAs for model eq: 200
+2021-05-13 15:47:27 __main__ INFO     Skipping Sparta.
+2021-05-13 15:47:27 __main__ INFO     retrieved existing params files.
+2021-05-13 15:47:27 __main__ INFO     retrieved existing params files.
+2021-05-13 15:47:50 __main__ INFO     Skipping Sparta.
+2021-05-13 15:47:50 __main__ INFO     retrieved existing params files.
+2021-05-13 15:47:50 __main__ INFO     retrieved existing params files.
+2021-05-13 15:47:52 msa_bias_corrector INFO     Maximal sequence length for model dif: 421
+2021-05-13 15:47:52 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 421
+2021-05-13 15:48:12 __main__ INFO     Skipping Sparta.
+2021-05-13 15:48:12 __main__ INFO     retrieved existing params files.
+2021-05-13 15:48:12 __main__ INFO     retrieved existing params files.
+2021-05-13 15:48:14 msa_bias_corrector INFO     Maximal sequence length for model dif: 421
+2021-05-13 15:48:14 msa_bias_corrector INFO     Number of simulated MSAs  for model dif: 421
+2021-05-13 15:48:15 msa_bias_corrector INFO     Number of indelible MSAs for model dif: 200
+2021-05-13 15:51:00 msa_bias_corrector INFO     Done with MAFFT
+2021-05-13 15:51:10 msa_bias_corrector INFO     {'AVG_GAP_SIZE': 0.7956426903573445, 'MSA_LEN': 0.9844382055384547, 'MSA_MAX_LEN': 0.9999999860376411, 'MSA_MIN_LEN': 0.9999999999891076, 'TOT_NUM_GAPS': 0.8701768225887623, 'NUM_GAPS_LEN_ONE': 0.6518118778998105, 'NUM_GAPS_LEN_TWO': 0.5539690833903657, 'NUM_GAPS_LEN_THREE': 0.4639346127279529, 'NUM_GAPS_LEN_AT_LEAST_FOUR': 0.8685144754129225, 'AVG_UNIQUE_GAP_SIZE': 0.77409286484972, 'TOT_NUM_UNIQE_GAPS': 0.9195821365080955, 'NUM_GAPS_LEN_ONE_POS_1_GAPS': 0.42190690848568857, 'NUM_GAPS_LEN_ONE_POS_2_GAPS': 0.5658004540557565, 'NUM_GAPS_LEN_ONE_POS_N_MINUS_1_GAPS': 0.4000167422563508, 'NUM_GAPS_LEN_TWO_POS_1_GAPS': 0.4742501346767711, 'NUM_GAPS_LEN_TWO_POS_2_GAPS': 0.5292556072266172, 'NUM_GAPS_LEN_TWO_POS_N_MINUS_1_GAPS': 0.43549962082890425, 'NUM_GAPS_LEN_THREE_POS_1_GAPS': 0.5560888546409418, 'NUM_GAPS_LEN_THREE_POS_2_GAPS': 0.6026498531277148, 'NUM_GAPS_LEN_THREE_POS_N_MINUS_1_GAPS': 0.2093624120635989, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_1_GAPS': 0.8429130108032813, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_2_GAPS': 0.6464130981991951, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_N_MINUS_1_GAPS': 0.5786756319733737, 'MSA_POSITION_WITH_0_GAPS': 0.9298778206004394, 'MSA_POSITION_WITH_1_GAPS': 0.9236897482133999, 'MSA_POSITION_WITH_2_GAPS': 0.7972833133851674, 'MSA_POSITION_WITH_N_MINUS_1_GAPS': 0.9173616523427807}
+2021-05-13 15:51:11 msa_bias_corrector INFO     Corrected MSA bias for model dif
+2021-05-13 15:51:11 msa_bias_corrector INFO     Maximal sequence length for model eq: 438
+2021-05-13 15:51:11 msa_bias_corrector INFO     Number of simulated MSAs  for model eq: 438
+2021-05-13 15:51:12 msa_bias_corrector INFO     Number of indelible MSAs for model eq: 200
+2021-05-13 15:54:58 msa_bias_corrector INFO     Done with MAFFT
+2021-05-13 15:55:20 msa_bias_corrector INFO     {'AVG_GAP_SIZE': 0.8171605405681568, 'MSA_LEN': 0.9812370568942533, 'MSA_MAX_LEN': 0.9999999967169609, 'MSA_MIN_LEN': 0.9999999999884602, 'TOT_NUM_GAPS': 0.8806418138670797, 'NUM_GAPS_LEN_ONE': 0.7514112663643377, 'NUM_GAPS_LEN_TWO': 0.460457221770712, 'NUM_GAPS_LEN_THREE': 0.3775376034747918, 'NUM_GAPS_LEN_AT_LEAST_FOUR': 0.8880767479600065, 'AVG_UNIQUE_GAP_SIZE': 0.8197178296129803, 'TOT_NUM_UNIQE_GAPS': 0.93113946577176, 'NUM_GAPS_LEN_ONE_POS_1_GAPS': 0.5224585004966473, 'NUM_GAPS_LEN_ONE_POS_2_GAPS': 0.7044511987968106, 'NUM_GAPS_LEN_ONE_POS_N_MINUS_1_GAPS': 0.4158471084954273, 'NUM_GAPS_LEN_TWO_POS_1_GAPS': 0.4906134119106685, 'NUM_GAPS_LEN_TWO_POS_2_GAPS': 0.5816561862552496, 'NUM_GAPS_LEN_TWO_POS_N_MINUS_1_GAPS': 0.1461877708481688, 'NUM_GAPS_LEN_THREE_POS_1_GAPS': 0.33126695931991024, 'NUM_GAPS_LEN_THREE_POS_2_GAPS': 0.45665346834124965, 'NUM_GAPS_LEN_THREE_POS_N_MINUS_1_GAPS': nan, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_1_GAPS': 0.8853766727861352, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_2_GAPS': 0.7836681157644387, 'NUM_GAPS_LEN_AT_LEAST_FOUR_POS_N_MINUS_1_GAPS': 0.6261158786456269, 'MSA_POSITION_WITH_0_GAPS': 0.9117724417544484, 'MSA_POSITION_WITH_1_GAPS': 0.8903172494682885, 'MSA_POSITION_WITH_2_GAPS': 0.8920565706666012, 'MSA_POSITION_WITH_N_MINUS_1_GAPS': 0.9139590987950184}
+2021-05-13 15:55:21 msa_bias_corrector INFO     Corrected MSA bias for model eq
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     started calc stats msa_corrected
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     dropped 12 features from ideq model
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     dropped 12 features from iddif model
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     ran load_lib_data msa_corrected
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     ran calc_bayes_factor msa_corrected
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     done bayes class msa_corrected
+2021-05-13 15:55:22 infer_abc_params_single_folder_pipeline INFO     done ABC mean msa_corrected
+2021-05-13 15:56:29 infer_abc_params_single_folder_pipeline INFO     done ABC ridge msa_corrected
+2021-05-13 15:56:30 infer_abc_params_single_folder_pipeline INFO     Done msa_corrected. Res file written to /Users/Oren/Dropbox/Projects/SpartaABC/backend/pipeline/gil/example_run/msa_corrected_res.csv
