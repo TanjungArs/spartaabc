@@ -1,0 +1,14 @@
+gene name is 4R1NJ , and the gene function is 
+
+species number 5
+average length 94.0
+standard deviation 2.0976176963403033
+maximum length 96
+minimum length 91
+
+species names
+1159906.H9BR03_9NIDO
+572290.B6VDY1_THCOV
+572287.B6VDX2_9NIDO
+1586324.A0A0E3Y5V9_9NIDO
+1159908.H9BR28_9NIDO

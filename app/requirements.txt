@@ -1,0 +1,7 @@
+biopython
+pandas
+numpy
+matplotlib
+sklearn
+click==7.1.2
+tqdm
